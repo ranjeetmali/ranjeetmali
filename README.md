@@ -68,9 +68,9 @@
 
 ### 🤝 Let’s Connect
 
-- 💼 Portfolio: [ranjeetmali.com](ranjeetmali.com)
+- 💼 Portfolio: <a href="https://ranjeetmali.com/" target="_blank">ranjeetmali.com</a>
 - 💌 Email: [ranjeetmali49@gmail.com](mailto:ranjeetmali49@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/ranjeetmali](linkedin.com/in/ranjeetmali)
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/ranjeet-mali/" target="_blank">linkedin.com/in/ranjeetmali</a>
 
 ---
 
